@@ -38,7 +38,7 @@ LITELLM_MODEL=openai/deepseek-ai/DeepSeek-V3
 ### 示例 2：使用 DeepSeek 官方接口
 ```env
 # 填入你在 DeepSeek 官方平台申请的 API Key
-DEEPSEEK_API_KEY=sk-xxxxxxxxxxxxxxxx
+DEEPSEEK_API_KEY=sk-f858d558c5884893a6e5cc9c50ea6bf3
 ```
 *提示：仅需这一行，系统会自动识别并默认使用 DeepSeek 模型。*
 
